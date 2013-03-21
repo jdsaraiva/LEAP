@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\cuboFrente.js">
+    <Files>
+      <File FileName="Assets\zoom direita.js" Line="9" Column="57" />
+      <File FileName="Assets\zoom esq.js" Line="8" Column="1" />
+      <File FileName="Assets\cuboFrente.js" Line="51" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

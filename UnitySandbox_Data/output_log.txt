@@ -1,0 +1,10 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.697]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     848 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,-221
+<RI> Initializing input.
+<RI> Input initialized.
